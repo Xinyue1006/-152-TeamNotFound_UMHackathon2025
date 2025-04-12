@@ -30,8 +30,8 @@ This tool helps merchants track sales trends, identify top-selling products, mon
 ## 📽️ Slide Presentation
 
 👉 View our pitch deck here: https://www.canva.com/design/DAGkNwX48LE/RIkwtMSQ50FpbfWTlxgsBw/view?utm_content=DAGkNwX48LE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1fd53ddd24
-
 OR You May Attach Our PPT Slide in slides/ Folder
+
 ---
 
 ## 🧠 Backend Instructions
